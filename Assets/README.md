@@ -1,2 +1,0 @@
-# TestUnityPackageManager
-UnityManagerPackagerTest

@@ -1,0 +1,16 @@
+{
+    "name": "MyTest.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:97b015d2654be80419a70f2849d2ae97"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "com.wyf.test",
+    "version": "0.0.1",
+    "displayName": "wyfTest",
+    "description": "This is an example package",
+    "dependencies": {
+   },
+    "author": {
+      "name": "wyf",
+      "email": "108321418@qq.com"
+    }
+}
